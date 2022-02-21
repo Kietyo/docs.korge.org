@@ -98,3 +98,6 @@ Game-like examples:
 * [Connect4](https://github.com/korlibs/korge-samples/tree/master/game/connect4)
 * [Minesweeper](https://github.com/korlibs/korge-samples/tree/master/game/minesweeper)
 * [TicTacToe KTree](https://github.com/korlibs/korge-samples/tree/master/game/tictactoe-ktree)
+
+Multiplayer Demo using Ktor Websockets:
+* https://github.com/Kietyo/KorgeMultiplayerDemo
